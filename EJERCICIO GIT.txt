@@ -6,5 +6,5 @@ git inir // inicializar repositorio
 git config --global  user.name ¨juan 10-07¨
 git config user.name 
 git config -- global user.email jnavaezp525@inemkennedy.edu.co
-git config user.email
+git config user.email // ver email
 git status  // ver version
